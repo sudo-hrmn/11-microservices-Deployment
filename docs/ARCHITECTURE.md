@@ -164,7 +164,7 @@ This architecture demonstrates:
 ---
 
 **Created by**: Harman Singh  
-**GitHub**: [github.com/harman-singh](https://github.com/harman-singh)  
-**LinkedIn**: [linkedin.com/in/harman-singh](https://linkedin.com/in/harman-singh)
+**GitHub**: [github.com/sudo-hrmn](https://github.com/sudo-hrmn)  
+**LinkedIn**: [linkedin.com/in/harmansinghsudo](https://www.linkedin.com/in/harmansinghsudo/)
 
 *Perfect for demonstrating microservices expertise in interviews and portfolio projects!*

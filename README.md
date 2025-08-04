@@ -232,7 +232,7 @@ This project is based on Google's microservices-demo and is available under the 
 ## 👨‍💻 About the Developer
 
 **Harman Singh** - Senior DevOps Engineer  
-🔗 **LinkedIn**: [linkedin.com/in/harman-singh](https://linkedin.com/in/harman-singh)  
+🔗 **LinkedIn**: [linkedin.com/in/harmansinghsudo](https://www.linkedin.com/in/harmansinghsudo/)  
 🐙 **GitHub**: [github.com/sudo-hrmn](https://github.com/sudo-hrmn)  
 
 ### **Expertise Areas**
