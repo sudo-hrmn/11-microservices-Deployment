@@ -86,6 +86,26 @@ minikube service frontend-external --url
 
 **Application URL**: Access via minikube service URL (typically `http://192.168.49.2:30455`)
 
+## 📱 Application Screenshots
+
+Experience the complete e-commerce user journey through our microservices architecture:
+
+### 🏠 Homepage & Product Catalog
+![Homepage](./docs/01-homepage-product-catalog.png)
+*Browse through our curated collection of products with real-time recommendations and contextual advertisements*
+
+### 🔍 Product Details & Recommendations
+![Product Details](./docs/02-product-details-page.png)
+*Detailed product information with ML-powered recommendations and dynamic pricing via currency service*
+
+### 🛒 Shopping Cart & Checkout
+![Shopping Cart](./docs/03-shopping-cart-checkout.png)
+*Seamless cart management with Redis caching and integrated checkout process*
+
+### ✅ Order Confirmation
+![Order Confirmation](./docs/04-order-confirmation.png)
+*Complete order processing with payment confirmation and shipping details*
+
 ## 📊 System Capabilities
 
 ### **Performance Metrics**
@@ -194,6 +214,7 @@ kubectl set image deployment/frontend server=custom-frontend
 ## 📚 Documentation
 
 - [Architecture Documentation](./docs/ARCHITECTURE.md)
+- [Application Screenshots & User Journey](./docs/SCREENSHOTS.md)
 - [Deployment Guide](./docs/deployment-guide.md)
 - [Troubleshooting](./docs/troubleshooting.md)
 

@@ -7,6 +7,15 @@ This project demonstrates a **cloud-native microservices architecture** using Go
 
 ![Architecture Diagram](./architecture-diagram.png)
 
+## 📱 Live Application Screenshots
+
+### User Journey Through Microservices
+
+| Homepage & Catalog | Product Details | Shopping Cart | Order Confirmation |
+|-------------------|-----------------|---------------|-------------------|
+| ![Homepage](./01-homepage-product-catalog.png) | ![Product Details](./02-product-details-page.png) | ![Cart](./03-shopping-cart-checkout.png) | ![Confirmation](./04-order-confirmation.png) |
+| **Frontend Service** displays products from **Product Catalog Service** with **Ad Service** recommendations | **Product Catalog Service** provides details while **Recommendation Service** suggests related items | **Cart Service** manages items in **Redis** while **Currency Service** handles pricing | **Checkout Service** orchestrates **Payment**, **Shipping**, and **Email** services |
+
 ## 🔧 System Architecture
 
 ```
